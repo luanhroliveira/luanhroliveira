@@ -16,7 +16,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em Java
 - [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/14c0c370-8963-4184-9c80-c9460ace7ab9/linked_in_profile)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub de Luan](https://github-readme-stats.vercel.app/api?username=luanhroliveira&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Luan Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanhroliveira\&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
 
 
 ## Linguagens e Ferramentas
