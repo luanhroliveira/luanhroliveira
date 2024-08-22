@@ -3,7 +3,7 @@
 ## Sobre mim
 Desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em Java, Kotlin, Spring Boot, Pl/SQL, SQL e mais. Sempre em busca de novos desafios e aprendizados.
 
----> ## Experiências Profissionais
+## Experiências Profissionais
 - **Engenheiro de software Pleno na Pagbank** (Mar 2024 - Presente)
   - Desenvolvimento de aplicações backend utilizando Kotlin e Spring Boot.
   - Integração de sistemas com APIs RESTful.
@@ -16,7 +16,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em Java
 - [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/14c0c370-8963-4184-9c80-c9460ace7ab9/linked_in_profile)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub de Luan](https://github-readme-stats.vercel.app/api?username=luanhroliveira&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=${{secrets.GITHUB_TOKEN}})
+![Estatísticas do GitHub de Luan](https://github-readme-stats.vercel.app/api?username=luanhroliveira&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
 ## Linguagens e Ferramentas
